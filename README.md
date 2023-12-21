@@ -11,7 +11,7 @@ Note: The service requires an internet connection to be used.
 ## API Reference
 → It supports multiple type of query, where use need to add requirement as a query data.
 
-#### 1. Get people list with name=Luke Skywalker
+#### 1. Get a list of people whose name= Luke Skywalker
 ```http
 GET /people?name=Luke Skywalker
 ```
