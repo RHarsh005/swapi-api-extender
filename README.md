@@ -1,6 +1,8 @@
 # swapi api extender
 This project fetches data from the SWAPI API and adds features like search, sort, etc. to make it more useful.
 
+**SWAPI API Doc** - https://swapi.dev/documentation
+
 ## How to run
 Run the script using below command:
 ```bash
